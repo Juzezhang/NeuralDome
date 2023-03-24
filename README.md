@@ -1,4 +1,4 @@
-# IKOL project page
+# NeuralDome project page
 
 [Project page](https://juzezhang.github.io/IKOL-webpage/) for [CVPR 2023] NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions
 
