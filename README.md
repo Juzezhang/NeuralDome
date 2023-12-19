@@ -1,6 +1,6 @@
 # NeuralDome project page
 
-[Project page](https://juzezhang.github.io/IKOL-webpage/) for [CVPR 2023] NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions
+[Project page](https://juzezhang.github.io/NeuralDome/) for [CVPR 2023] NeuralDome: A Neural Modeling Pipeline on Multi-View Human-Object Interactions
 
 [paper](https://arxiv.org/pdf/2212.07626.pdf)
 
